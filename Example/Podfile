@@ -1,0 +1,10 @@
+platform :ios, '10.0'
+use_frameworks!
+
+target 'TrezorCryptoEd25519WithBlake2b_Example' do
+  pod 'TrezorCryptoEd25519WithBlake2b', :path => '../'
+
+  target 'TrezorCryptoEd25519WithBlake2b_Tests' do
+    inherit! :search_paths
+  end
+end

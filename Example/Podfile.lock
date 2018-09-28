@@ -1,0 +1,16 @@
+PODS:
+  - TrezorCryptoEd25519WithBlake2b (0.0.1)
+
+DEPENDENCIES:
+  - TrezorCryptoEd25519WithBlake2b (from `../`)
+
+EXTERNAL SOURCES:
+  TrezorCryptoEd25519WithBlake2b:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TrezorCryptoEd25519WithBlake2b: c3c8199ee9d136a0fec2358bd18ec172604f92c6
+
+PODFILE CHECKSUM: 71df458ca648dc7613179ec8c18fc47373f5cefe
+
+COCOAPODS: 1.5.3
